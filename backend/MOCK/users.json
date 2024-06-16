@@ -1,0 +1,15 @@
+{
+    "users": [
+        {
+            "username": "AegonT123",
+            "password": "Ag1234",
+            "role": "admin"
+        },
+        {
+            "username": "JaimeL11",
+            "password": "Jl1242",
+            "role": "The kingslayer"
+        }
+    ]
+
+}
